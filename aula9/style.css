@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #fff;
+    color: #333;
+}
+main {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px 16px;
+}
+
+.card {
+    background-color: #fff;
+    border: 2px solid #EDBB00;
+    border-radius: 10px;
+    padding: 14px 16px;
+    margin-bottom: 12px;
+}
+
+#promo-dia {
+    background-color: #a50044;
+    color: #fff;
+    border: 2px solid #EDBB00;
+    text-align: center;
+}
+
+.destaque {
+    border-color: #EDBB00;
+    background-color: #004D98;
+    color: #fff;
+}
+
+.esgotado{
+    opacity: 0.5;
+}
+
+.esgotado h4{
+    text-decoration: line-through;
+}
