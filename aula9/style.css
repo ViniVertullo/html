@@ -2,7 +2,8 @@ body{
     font-family: Arial, sans-serif;
     margin: 0;
     background: url('https://images4.alphacoders.com/140/thumb-1920-1406923.jpg') no-repeat center center fixed;
-    color: #333;
+    color: #000000;
+    text-align: center;
 }
 main {
     max-width: 500px;
